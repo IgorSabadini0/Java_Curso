@@ -9,6 +9,6 @@ public class Main {
         Calcular meuCalculo = new Calcular();
 
 
-        System.out.println("Resultado = " + meuCalculo.calculos(12, 32, 3));
+        System.out.println("Resultado = " + meuCalculo.calculos(12, 0, 4));
     }
 }
